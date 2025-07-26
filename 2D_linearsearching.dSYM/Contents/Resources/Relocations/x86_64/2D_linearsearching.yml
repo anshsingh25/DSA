@@ -1,0 +1,5 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Applications/c++/2D_linearsearching'
+relocations:     []
+...

@@ -1,0 +1,5 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Applications/c++/doublylinkedlist_insert_element_at_specific_position'
+relocations:     []
+...
